@@ -24,8 +24,8 @@ def auto_load():
     for f in find_path:
         if os.path.isfile(f):
             config_file = f
-            return
-    raise Exception('no config file found')
+    if not config_file:
+        config_file = find_path[0]
 
 
 url_builtin = '__builtin__'
