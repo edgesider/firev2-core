@@ -1,0 +1,349 @@
+{
+    "subscriptions": {
+        "attrs": {},
+        "items": {
+            "t": {
+                "url": "http://localhost:8080",
+                "nodes": [
+                    {
+                        "protocol": "vmess",
+                        "address": "us1.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-US-LosAngeles 1(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "us2.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-US-LosAngeles 2(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "us3.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-US-LosAngeles 3(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "hk1.v2u9.top",
+                        "port": 888,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "tcp",
+                        "tls": false,
+                        "header_type": "none",
+                        "remark": "u9un-v2-HK-HongKong 1(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "hk2.v2u9.top",
+                        "port": 888,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "tcp",
+                        "tls": false,
+                        "header_type": "none",
+                        "remark": "u9un-v2-HK-HongKong 2(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "hk3.v2u9.top",
+                        "port": 456,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "tcp",
+                        "tls": false,
+                        "header_type": "none",
+                        "remark": "u9un-v2-HK-HongKong 3(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "hk4.v2u9.top",
+                        "port": 456,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "tcp",
+                        "tls": false,
+                        "header_type": "none",
+                        "remark": "u9un-v2-HK-HongKong 4(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "hk5.v2u9.top",
+                        "port": 456,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "tcp",
+                        "tls": false,
+                        "header_type": "none",
+                        "remark": "u9un-v2-HK-HongKong 5(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "hk6.v2u9.top",
+                        "port": 456,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "tcp",
+                        "tls": false,
+                        "header_type": "none",
+                        "remark": "u9un-v2-HK-HongKong 6(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "hk7.v2u9.top",
+                        "port": 789,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "tcp",
+                        "tls": false,
+                        "header_type": "none",
+                        "remark": "u9un-v2-HK-HongKong 7(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "hk8.v2u9.top",
+                        "port": 789,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "tcp",
+                        "tls": false,
+                        "header_type": "none",
+                        "remark": "u9un-v2-HK-HongKong 8(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "hk9.v2u9.top",
+                        "port": 789,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "tcp",
+                        "tls": false,
+                        "header_type": "none",
+                        "remark": "u9un-v2-HK-HongKong 9(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "hk0.v2u9.top",
+                        "port": 789,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "tcp",
+                        "tls": false,
+                        "header_type": "none",
+                        "remark": "u9un-v2-HK-HongKong 0(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "jp1.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-JP-Tokyo 1(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "jp2.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-JP-Tokyo 2(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "jp3.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-JP-Tokyo 3(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "jp4.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-JP-Tokyo 4(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "jp5.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-JP-Tokyo 5(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "jp6.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-JP-Tokyo 6(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "tw1.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-TW-Taipei 1(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "tw2.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-TW-Taipei 2(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "sg1.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-SG-Singapore(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "kr1.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-KR-Seoul(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "in1.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-IN-India(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "mo1.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-MO-Macau(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "my1.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-MY-Malaysia(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "th1.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-TH-Thailand(1)"
+                    },
+                    {
+                        "protocol": "vmess",
+                        "address": "id1.v2u9.top",
+                        "port": 443,
+                        "user_id": "CEB9A517-D7F0-FFA0-2B79-D5BAE642411E",
+                        "alter_id": 1,
+                        "network": "ws",
+                        "tls": true,
+                        "header_type": "utp",
+                        "remark": "u9un-v2-ID-Indonesia(1)"
+                    }
+                ]
+            }
+        }
+    },
+    "routings": {
+        "attrs": {},
+        "items": {
+            "r": {
+                "rules": [
+                    {
+                        "type": "field",
+                        "domain": [
+                            "geosite:geolocation-!cn"
+                        ],
+                        "inboundTag": "auto",
+                        "outboundTag": "t:10"
+                    }
+                ],
+                "master": "direct"
+            }
+        }
+    },
+    "inbounds": {
+        "attrs": {},
+        "items": {
+            "auto": {
+                "tag": "auto",
+                "protocol": "socks",
+                "listen": "127.0.0.1",
+                "port": "3000"
+            }
+        }
+    }
+}
