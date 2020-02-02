@@ -1,4 +1,3 @@
-import fcntl
 import io
 import json
 import os
@@ -262,8 +261,7 @@ class Monitor(Process):
         self._v2_config_filename = self._get_work_dir() + '/v2ray_config.json'
         with open(self._v2_config_filename, 'w') as fp:
             json.dump(self._config, fp, indent=4, ensure_ascii=False)
-        self._v2 = subprocess.Popen(['v2ray', '-config',
-                                     self._get_work_dir() + '/v2ray_config.json'],
+        self._v2 = subprocess.Popen(['v2ray', '-config', self._v2_config_filename],
                                     stdout=subprocess.PIPE, stderr=subprocess.PIPE,
                                     close_fds=True)
         self._v2_access_log_reader = self._v2.stdout
@@ -371,6 +369,7 @@ class Monitor(Process):
 
     @classmethod
     def _get_work_dir(cls):
+        # TODO different in root
         return f'/run/user/{cls._get_uid()}/firev2/'
 
     @staticmethod

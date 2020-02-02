@@ -295,6 +295,7 @@ class Routing(Serializable, V2ConfigObject):
             inbound_names = set(inbound_names)
             node_names = list(set(node_names))
             if self.master is not None:
+                # move master node to first
                 if self.master in node_names:
                     node_names.remove(self.master)
                 node_names.insert(0, self.master)
